@@ -56,5 +56,6 @@ This work is grounded in established English law:
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/jason-gething/)
 
 ---
+> **Note:** The white paper PDF is © FIG LTD. All rights reserved. The MIT License applies to the repository structure only, not to the white paper content.
 
 © 2024–2026 FIG LTD. All rights reserved.
